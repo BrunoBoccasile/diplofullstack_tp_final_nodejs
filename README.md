@@ -10,7 +10,7 @@ La API está preparada para conectarse con un frontend (por ejemplo, un clon de 
 ## Cómo usar
 
 ### Opción A:
-Ingresar a https://diplofullstack-tp-final-nodejs-pdm.vercel.app/
+Ingresar a https://diplofullstack-tp-final-nodejs.vercel.app/
 
 ### Opción B:
 1. Clonar el repositorio:
